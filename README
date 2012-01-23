@@ -1,4 +1,6 @@
 Resources for a card game I created at Guelph Game Jam 2.
 
+Python code is intended for use in an interactive python console. I'd recommend reading through the code so you have an idea of what functions you should call.
+
 For blank cards, check out my Card Game Template repo
 https://github.com/malexw/Card-Game-Template
